@@ -1,0 +1,8 @@
+[local]
+localhost
+
+[ubuntu]
+doshihardikn5.mylabserver.com
+
+[centos]
+doshihardikn6.mylabserver.com
